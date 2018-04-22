@@ -9,10 +9,11 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/inline.318b50c57b4eba3d437b.bundle.js",
-        "/main.13fa366ed7f215c1a7cc.bundle.js",
-        "/polyfills.b6b2cd0d4c472ac3ac12.bundle.js",
-        "/styles.f9325a531b8bcadfae26.bundle.css"
+        "/0.2173c99835804778eb2e.chunk.js",
+        "/inline.6662edc2e1ea4a775c39.bundle.js",
+        "/main.bf526bfcde0c4a4cf5c5.bundle.js",
+        "/polyfills.1a5d8bfaa3b55259e369.bundle.js",
+        "/styles.59e4664819a44a3446d4.bundle.css"
       ],
       "patterns": []
     },
@@ -21,6 +22,10 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
+        "/assets/icon_128x128.png",
+        "/assets/icon_152x152.png",
+        "/assets/icon_256x256.png",
+        "/assets/icon_512x512.png",
         "/assets/i18n/en.json"
       ],
       "patterns": []
@@ -28,12 +33,17 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
+    "/0.2173c99835804778eb2e.chunk.js": "3d73f8fb9b420dba17c8665b660eecb832f391cd",
+    "/assets/icon_128x128.png": "ef2bb874769ecf5eb4de56271aa6c156c04f32e0",
+    "/inline.6662edc2e1ea4a775c39.bundle.js": "4fe5e4cfee8b57f53081965f58a1177215a7896c",
+    "/assets/icon_152x152.png": "f37aa1338c4e0ca44631803c8afb153765c0c644",
+    "/main.bf526bfcde0c4a4cf5c5.bundle.js": "4491a1845fb08fc5f6be45c453dabc0d8ee6a2f0",
+    "/assets/icon_256x256.png": "58aa6eefb669c888c7e8389a3c90d5849334d97b",
+    "/polyfills.1a5d8bfaa3b55259e369.bundle.js": "a3bc82babbf3ddc6eb7a9b817af4d0eee56376b5",
+    "/assets/icon_512x512.png": "68f31bbc68c334bf31e1f2895d583122fce753c7",
+    "/styles.59e4664819a44a3446d4.bundle.css": "08adbbce1508ef0904444de8feff40f5f59e2dfb",
     "/assets/i18n/en.json": "10bec74b8a095fbbc4b9fd756e7c85c71533acf3",
-    "/main.13fa366ed7f215c1a7cc.bundle.js": "46c4c2172a3d953a4233e82b7890464e7c8f10bc",
-    "/polyfills.b6b2cd0d4c472ac3ac12.bundle.js": "b092f5c27ff4222179ae3e9e3164c8cc6caa09cf",
-    "/styles.f9325a531b8bcadfae26.bundle.css": "bdd05c82b511e7436b25d2124d2aa906b3f7a89e",
     "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "5efcfc8023425500f502a0ad334dd20b1417eb10"
+    "/index.html": "7e3d2c0972a975896f14e5f5be49d4a46fa29e32"
   }
 }

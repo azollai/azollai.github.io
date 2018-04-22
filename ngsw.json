@@ -10,9 +10,9 @@
         "/favicon.ico",
         "/index.html",
         "/inline.318b50c57b4eba3d437b.bundle.js",
-        "/main.ef7c9008c7085cefdee6.bundle.js",
+        "/main.a257de695af54e82a238.bundle.js",
         "/polyfills.b6b2cd0d4c472ac3ac12.bundle.js",
-        "/styles.ac89bfdd6de82636b768.bundle.css"
+        "/styles.f9325a531b8bcadfae26.bundle.css"
       ],
       "patterns": []
     },
@@ -20,17 +20,20 @@
       "name": "assets",
       "installMode": "lazy",
       "updateMode": "prefetch",
-      "urls": [],
+      "urls": [
+        "/assets/i18n/en.json"
+      ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
     "/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
-    "/main.ef7c9008c7085cefdee6.bundle.js": "3b73cf652d24b5df2f2bab2ae28a76b3e0556058",
+    "/assets/i18n/en.json": "10bec74b8a095fbbc4b9fd756e7c85c71533acf3",
+    "/main.a257de695af54e82a238.bundle.js": "17eeddd5f6c98b5ef3404237d2cf12f50159dfc5",
     "/polyfills.b6b2cd0d4c472ac3ac12.bundle.js": "b092f5c27ff4222179ae3e9e3164c8cc6caa09cf",
-    "/styles.ac89bfdd6de82636b768.bundle.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "/styles.f9325a531b8bcadfae26.bundle.css": "bdd05c82b511e7436b25d2124d2aa906b3f7a89e",
     "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "806a0532534c31e2a71271f17fdc03c60ce19b28"
+    "/index.html": "01efa689dd1af032b0c0dc33eb2a320bcd9ede48"
   }
 }

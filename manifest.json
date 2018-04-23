@@ -32,5 +32,11 @@
   "start_url": "https://azollai.github.io/",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#673ab7"
+  "theme_color": "#673ab7",
+  "related_applications": [
+  {
+  "platform": "play",
+  "id": "com.google.samples.apps.iosched"
+  }
+]
 }
